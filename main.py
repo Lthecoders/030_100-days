@@ -9,7 +9,7 @@ print(
 print("\033[31m",
       "               <---------------------------------------->\n\n\n",
       "\033[0m")
-increment = 28
+increment = 0
 while True:
   increment += 1
   if increment > 30:
